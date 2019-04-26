@@ -13,5 +13,16 @@ body {
 
 h1 {
   background: #ea5169;
+}
 
+.watermelo-type {
+  text-align: left;
+  margin-left: 80px;
+}
+
+.image-grid {
+  display-grid: grid;
+  grid-template: 250px 250px / 300px 300px;
+  grid-gap: 15px;
+  
 }
